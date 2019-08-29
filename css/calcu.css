@@ -1,0 +1,85 @@
+*
+{
+  padding: 0;
+  margin:0;
+  font-family: sans-serif;
+}
+
+button
+{
+  margin: 0px;
+  padding: 9px;
+}
+
+.calculadora
+{
+  background-color: #ededed;
+  width:  fit-content;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.teclas
+{
+  display: flex;
+  padding: 18px;
+}
+.pantalla
+{
+  padding: 18px 18px 0px 18px;
+}
+
+.numeros div
+{
+  text-align: center;
+}
+
+.op
+{
+  padding: 18px 18 px 18px 9px;
+
+}
+.op button
+{
+  display: block;
+  width: 54px;
+  padding: 9px 15px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+.numeros
+{
+  padding: 18px 9px 18px 18px
+}
+
+{
+  text-align: center;
+}
+
+.numeros button
+{
+  border: 0px;
+  background-color: #fff;
+  transition: all 0.09s;
+}
+
+button
+{
+  margin: 2px 0px;
+  padding: 15px 24px;
+  font-size: 19px;
+}
+
+.numeros button:hover
+{
+  box-shadow: 0px 0px 12px #ccc;
+}
+
+#resultado
+{
+  background-color: #666;
+  padding: 9px;
+  padding-bottom: 0px;
+  color:#eee;
+}
