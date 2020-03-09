@@ -107,4 +107,4 @@ const runOperation = clearOigual => {
 
 
 
-// calculator()
+calculator()
